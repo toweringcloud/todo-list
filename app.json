@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "WorkHardTravelHard",
-    "slug": "WorkHardTravelHard",
+    "slug": "work-hard-travel-hard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "21778077-2023-40f2-91ac-e28d5f572714"
+      }
+    },
+    "owner": "toweringcloud",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/21778077-2023-40f2-91ac-e28d5f572714"
     }
   }
 }
