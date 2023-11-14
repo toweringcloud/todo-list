@@ -1,6 +1,6 @@
 # todo-list
 
-## work hard travel hard using react-native & expo
+## work & travel checklist using react-native and expo
 
 -   add work or travel item
 -   find work or travel items
