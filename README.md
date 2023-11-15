@@ -11,8 +11,5 @@
 [android demo]
 ![Alt text](https://github.com/toweringcloud/todo-list/blob/main/demo/snapshot1.gif?raw=true)
 
-[expo aos app]
-![Alt text](https://github.com/toweringcloud/todo-list/blob/main/demo/expo-android.png?raw=true)
-
-[expo ios app]
-![Alt text](https://github.com/toweringcloud/todo-list/blob/main/demo/expo-ios.png?raw=true)
+[expo app url]
+![Alt text](https://toweringcloud.github.io/todo-list)
