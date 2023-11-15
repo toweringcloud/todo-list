@@ -10,3 +10,9 @@
 
 [android demo]
 ![Alt text](https://github.com/toweringcloud/todo-list/blob/main/demo/snapshot1.gif?raw=true)
+
+[expo aos app]
+![Alt text](https://github.com/toweringcloud/todo-list/blob/main/demo/expo-android.png?raw=true)
+
+[expo ios app]
+![Alt text](https://github.com/toweringcloud/todo-list/blob/main/demo/expo-ios.png?raw=true)
